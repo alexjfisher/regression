@@ -1,0 +1,3 @@
+fixtures:
+  symlinks:
+    regression: "#{source_dir}"
